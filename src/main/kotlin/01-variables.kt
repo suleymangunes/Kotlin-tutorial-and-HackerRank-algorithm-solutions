@@ -36,7 +36,7 @@ fun main(){
     // trim bosluklari siler
     // plus string ekleme
     // length karakter uzunlugu
-    
+
 
 
 
