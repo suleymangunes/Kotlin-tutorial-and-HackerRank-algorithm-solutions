@@ -1,3 +1,4 @@
+// kalitim yapilacak sinifin open ile kalitima izin vermesi gerekir
 open class Artist(name:String, age:Int){
     var name:String
     var age:Int
@@ -7,12 +8,16 @@ open class Artist(name:String, age:Int){
         this.age = age
     }
 
-    open override fun toString(): String {
+    override fun toString(): String {
         return "name: $name\n" +
                 "age: $age\n"
     }
 }
 
+// kalitim yapmak icin : ile kalitim yapilacak sinif yazilir
+// eger kalitim yapilan sinifin constructorda parametre varsa bu kisimda da kalitim sinifina yazilmali
+// ayrica subclass constructoru icerisinde de bu degerler tanimlanmalidir
+// tabi bu degerler superclass fieldı olarakta tanimliysa
 class Actor(name:String, age:Int, movie:String):Artist(name, age){
     var movie:String
 
@@ -21,6 +26,7 @@ class Actor(name:String, age:Int, movie:String):Artist(name, age){
     }
 
     override fun toString(): String {
+        // super ile ust sinifin degerlerine ulasilir
         return super.toString() +
                 "movie: $movie\n"
     }
