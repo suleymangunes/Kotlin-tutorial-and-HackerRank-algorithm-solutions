@@ -53,4 +53,5 @@ fun main(){
     infix fun Int.addNum(sayi:Int):Int=this + sayi
 
     print(6 addNum 4)
+
 }
