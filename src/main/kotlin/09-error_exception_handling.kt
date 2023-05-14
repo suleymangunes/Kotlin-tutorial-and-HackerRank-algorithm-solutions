@@ -13,4 +13,15 @@ fun main() {
         println("program is done")
     }
 
+
+    // elvis operatoru ile hata kontrolu yapilir
+    // ?: ile hata aranan kisimdan sonra tanimlanir ve devaminda throw firlatarak
+    // firlatilmak istenen throw turu tanimlanir
+    // bu sayede hata durumunda hata yakalanir
+    var x:Int? = null
+
+    var sonuc = x?:throw IllegalArgumentException("null deger tanimli")
+
+
+
 }
