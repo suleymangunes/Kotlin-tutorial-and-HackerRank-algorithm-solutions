@@ -19,5 +19,8 @@ fun main() {
     var wong = veriler.copy("wong")
     print(wong)
 
+    // ayrica sinif fieldlari tuple icerisine eklenebilir
+    var(isim) = wong
+
     // bu ozellikler normal sinifta kullanilmaz data sinifina ozgudur
 }
