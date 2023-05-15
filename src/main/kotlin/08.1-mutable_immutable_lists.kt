@@ -18,5 +18,18 @@ fun main() {
         println(i)
     }
 
+    // mutable listeler
+    // icerigine deger eklenip silinebilen ayrica degerlerin degisebilecegi mutable listeler olusturuldu
+    var liste = arrayListOf("suleyman", 'a', 4, null)
+    liste.add(5)
+    liste.remove(4)
+
+    var liste2 = mutableListOf("suleyman", 'a', 4, null)
+    liste2.add(5)
+    liste2.remove(4)
+
+
+
+
 
 }
