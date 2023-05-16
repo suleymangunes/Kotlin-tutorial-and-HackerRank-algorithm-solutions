@@ -4,7 +4,6 @@
 <ul>
   <li>Variables </li>
   <ul>
-    <li>Define</li>
     <li>Variable Types</li>
     <li>Mutable and Immutable Variables</li>
     <li>Convert Variable Types</li>
@@ -64,10 +63,10 @@
   </ul>
   <li>Error Handling</li>
   <ul>
-    <li>Try, cathh, finally blocs</li>
+    <li>Try, catch, finally blocs</li>
     <li>Elvis Operator</li>
   </ul>
-  <li>File Hnadling</li>
+  <li>File Handling</li>
   <ul>
     <li>Create, Write, Read</li>
   </ul>
