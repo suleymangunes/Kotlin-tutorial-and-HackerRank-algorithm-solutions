@@ -1,4 +1,4 @@
-# Kotlin Tutorial And HackerRank Algorithm Solutions
+# Kotlin Tutorial And HackerRank Algorithms Solutions
 
 ## Kotlin Tutorial
 <ul>
