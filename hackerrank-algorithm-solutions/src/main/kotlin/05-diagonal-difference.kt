@@ -4,7 +4,7 @@ import kotlin.ranges.*
 import kotlin.text.*
 import kotlin.math.abs
 
-
+// diagonal difference square matrix
 fun diagonalDifference(arr: Array<Array<Int>>): Int {
 
     var arrSize:Int = arr.size
