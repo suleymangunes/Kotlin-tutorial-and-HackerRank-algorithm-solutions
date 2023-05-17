@@ -16,3 +16,16 @@ fun main(args: Array<String>) {
 
     println(result)
 }
+
+fun main(){
+    var string = "asdfula asf 2 2 sdf 1"
+    var nums = "0123456789"
+
+    for (i in 0.rangeTo(string.length - 1)){
+        for (j in nums){
+            if(string[i] == j){
+                println("index : $i, sayi: $i")
+            }
+        }
+    }
+}
