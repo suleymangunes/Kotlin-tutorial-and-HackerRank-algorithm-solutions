@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48414434-ee8d-4b5b-a054-02a2d6738c20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../java_work/berfineanlatsingleton/src/MAin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_work/berfineanlatsingleton/src/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_work/factory/src/Telefon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_work/factory/src/TelefonBayi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_work/hackathon_vodafone/Vodafone Lt Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_work/hackathon_vodafone/ai.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_work/hackathon_vodafone/intents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_work/hackathon_vodafone/logingui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_work/hackathon_vodafone/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_work/hackathon_vodafone/page3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_work/hackathon_vodafone/siyah_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_work/hackathon_vodafone/siyah_logo_kucuk.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../english_work/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../english_work/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java_work/KullaniciIslemleri/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java_work/KullaniciIslemleri/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java_work/KullaniciIslemleri/src/database/DanışmanaGelenMesajlar.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../java_work/KullaniciIslemleri/src/database/DanışmanaGelenMesajlar.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java_work/KullaniciIslemleri/src/database/GelenBelgeTalepleri.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../java_work/KullaniciIslemleri/src/database/GelenBelgeTalepleri.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java_work/KullaniciIslemleri/src/database/GelenFotoğrafGüncellemeTalepleri.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../java_work/KullaniciIslemleri/src/database/GelenFotoğrafGüncellemeTalepleri.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java_work/ogrenim/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java_work/ogrenim/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java_work/out/production/KullaniciIslemleri/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java_work/out/production/KullaniciIslemleri/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java_work/out/production/KullaniciIslemleri/database/DanışmanaGelenMesajlar.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../java_work/out/production/KullaniciIslemleri/database/DanışmanaGelenMesajlar.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java_work/out/production/KullaniciIslemleri/database/GelenBelgeTalepleri.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../java_work/out/production/KullaniciIslemleri/database/GelenBelgeTalepleri.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java_work/out/production/KullaniciIslemleri/database/GelenFotoğrafGüncellemeTalepleri.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../java_work/out/production/KullaniciIslemleri/database/GelenFotoğrafGüncellemeTalepleri.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java_work/out/production/ogrenim/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java_work/out/production/ogrenim/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/AccessModifiers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/Actor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/AnaSinif.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/Artist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/FetchDataService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/GetSetClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/IFetchData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/kotlin-tutorial.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/SoyutSinif.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/Veriler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/VerilerNormal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_00_hello_worldKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_01_variablesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_02_null_safetyKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_03_basic_operatorsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_04_if_else_whenKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_05_loopsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_06_functionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_07_0_classes_basicKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_07_1_classes_inheritanceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_07_2_classes_abstractKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_07_3_interfaceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_07_4_data_classKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_07_5_getter_setterKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_07_6_access_modifiersKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_08_0_arrays_basicKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_08_1_mutable_immutable_listsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_09_error_exception_handlingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_10_set_mutable_immutable_setsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_11_map_mutable_immutable_mapsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/_12_file_handlingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/ornekPaket/islemler/Islemler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/ornekPaket/islemler/IslemlerKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/ornekPaket/islemler/SabitlerKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/ornekPaketKullan/kullan/KullanKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.values" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/local-state/build-history.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/00-hello_world.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/01-variables.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/02-null_safety.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/03-basic_operators.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/04-if_else_when.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/05-loops.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/06-functions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07.0-classes_basic.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07.1-classes_inheritance.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07.2-classes_abstract.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07.3_interface.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07.4-data_class.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07.5-getter_setter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/07.6-access_modifiers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/08.0-arrays_basic.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/08.1-mutable_immutable_lists.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/09-error_exception_handling.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/10-set_mutable_immutable_sets.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/11-map_mutable_immutable_maps.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/12-dosya.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/12-file_handling.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/ornekPaket/islemler/Islemler.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/ornekPaket/islemler/sabitler.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/ornekPaketKullan/kullan/Kullan.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../materials/opencv_materials" beforeDir="false" afterPath="$PROJECT_DIR$/../../materials/opencv_materials" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/opencv-learn" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/opencv-learn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/BlpImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/BlpImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/BmpImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/BmpImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/DdsImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/DdsImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/EpsImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/EpsImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ExifTags.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ExifTags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/FitsStubImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/FitsStubImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/FtexImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/FtexImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/GifImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/GifImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/IcnsImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/IcnsImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/IcoImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/IcoImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/Image.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/Image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageCms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageCms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageColor.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageColor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageDraw.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageDraw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageFilter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageFilter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageFont.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageFont.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageMath.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageMath.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageMode.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageMode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageMorph.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageMorph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageOps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageOps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImagePalette.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImagePalette.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageQt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageQt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageShow.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/ImageShow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/Jpeg2KImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/Jpeg2KImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/JpegImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/JpegImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/JpegPresets.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/JpegPresets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/MicImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/MicImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/MpoImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/MpoImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/MspImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/MspImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/PSDraw.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/PSDraw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/PcxImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/PcxImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/PdfImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/PdfImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/PdfParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/PdfParser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/PngImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/PngImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/PsdImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/PsdImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/PyAccess.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/PyAccess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/SgiImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/SgiImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/SpiderImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/SpiderImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/TgaImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/TgaImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/TiffImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/TiffImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/TiffTags.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/TiffTags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/WalImageFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/WalImageFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/WebPImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/WebPImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/WmfImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/WmfImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_imaging.cp38-win32.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_imaging.cp38-win32.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_imagingcms.cp38-win32.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_imagingcms.cp38-win32.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_imagingft.cp38-win32.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_imagingft.cp38-win32.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_imagingmath.cp38-win32.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_imagingmath.cp38-win32.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_imagingmorph.cp38-win32.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_imagingmorph.cp38-win32.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_imagingtk.cp38-win32.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_imagingtk.cp38-win32.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_tkinter_finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_tkinter_finder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_webp.cp38-win32.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/_webp.cp38-win32.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/features.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/PIL/features.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/Pillow-8.1.0.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/Pillow-8.1.0.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/Pillow-8.1.0.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/Pillow-8.1.0.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/Pillow-8.1.0.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/Pillow-8.1.0.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/Pillow-8.1.0.dist-info/zip-safe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/_distutils_hack/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/_distutils_hack/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/dateutil/_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/dateutil/_version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/dateutil/easter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/dateutil/easter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/dateutil/parser/_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/dateutil/parser/_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/dateutil/parser/isoparser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/dateutil/parser/isoparser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/dateutil/rrule.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/dateutil/rrule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/dateutil/tz/tz.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/dateutil/tz/tz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/dateutil/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/dateutil/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/dateutil/zoneinfo/dateutil-zoneinfo.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/dateutil/zoneinfo/dateutil-zoneinfo.tar.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/dateutil/zoneinfo/rebuild.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/dateutil/zoneinfo/rebuild.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pip-21.1.2.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pip-21.1.2.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pip-21.1.2.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pip-21.1.2.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pip-21.1.2.dist-info/REQUESTED" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pip-21.1.2.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pip-21.1.2.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pip-21.1.2.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pip/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pip/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pip/_internal/cli/req_command.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pip/_internal/cli/req_command.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pip/_internal/req/req_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pip/_internal/req/req_install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pip/_vendor/tenacity/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pip/_vendor/tenacity/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pkg_resources/extern/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/pkg_resources/extern/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/python_dateutil-2.8.1.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/python_dateutil-2.8.1.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/python_dateutil-2.8.1.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/python_dateutil-2.8.1.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/python_dateutil-2.8.1.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/python_dateutil-2.8.1.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/python_dateutil-2.8.1.dist-info/zip-safe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools-53.0.0.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools-53.0.0.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools-53.0.0.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools-53.0.0.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools-53.0.0.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools-53.0.0.dist-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools-53.0.0.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools-53.0.0.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/_distutils/_msvccompiler.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/_distutils/_msvccompiler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/_distutils/ccompiler.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/_distutils/ccompiler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/_distutils/msvc9compiler.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/_distutils/msvc9compiler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/_distutils/msvccompiler.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/_distutils/msvccompiler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/_distutils/spawn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/_distutils/spawn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/_imp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/_imp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/_vendor/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/build_meta.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/build_meta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/command/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/command/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/command/bdist_wininst.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/command/build_py.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/command/build_py.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/command/easy_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/command/easy_install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/command/egg_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/command/egg_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/command/install_scripts.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/command/install_scripts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/command/sdist.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/command/sdist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/command/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/command/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/command/upload_docs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/command/upload_docs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/dist.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/dist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/extern/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/extern/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/msvc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/msvc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/package_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Lib/site-packages/setuptools/package_index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Scripts/pip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Scripts/pip3.8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Scripts/pip3.8.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../opencv_work/venv/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../opencv_work/venv/Scripts/pip3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_work/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../python_work/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_work/matplotlib_samples/_matplotlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python_work/matplotlib_samples/_matplotlib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_work/numpy_samples/numpy_arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python_work/numpy_samples/numpy_arrays.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_work/pyqt5_samples/_listview.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python_work/pyqt5_samples/_listview.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_work/pyqt5_samples/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python_work/pyqt5_samples/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_work/python_samples/calisma.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python_work/python_samples/calisma.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_work/python_samples/filesbinary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python_work/python_samples/filesbinary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_work/python_samples/seskonus.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python_work/python_samples/seskonus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_work/python_samples/xoxoyunu.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python_work/python_samples/xoxoyunu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_work/python_samples/zenglish.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python_work/python_samples/zenglish.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_work/python_samples/zmovie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_work/selenium_samples/_twitter - Kopya.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_work/selenium_samples/_twitter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python_work/selenium_samples/_twitter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_work/selenium_samples/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python_work/selenium_samples/twiiterbot.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python_work/selenium_samples/twiiterbot.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PerMGKRiO9Ca1jJZNJn3npFQvI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/suley/Desktop/software/kotlin_work/kotlin-tutorial/kotlin-tutorial",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Kotlin._12_file_handlingKt">
+    <configuration name="_08_0_arrays_basicKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_08_0_arrays_basicKt" />
+      <module name="kotlin-tutorial.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_08_1_mutable_immutable_listsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_08_1_mutable_immutable_listsKt" />
+      <module name="kotlin-tutorial.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_10_set_mutable_immutable_setsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_set_mutable_immutable_setsKt" />
+      <module name="kotlin-tutorial.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_11_map_mutable_immutable_mapsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_map_mutable_immutable_mapsKt" />
+      <module name="kotlin-tutorial.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_12_file_handlingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_file_handlingKt" />
+      <module name="kotlin-tutorial.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin._12_file_handlingKt" />
+        <item itemvalue="Kotlin._11_map_mutable_immutable_mapsKt" />
+        <item itemvalue="Kotlin._10_set_mutable_immutable_setsKt" />
+        <item itemvalue="Kotlin._08_1_mutable_immutable_listsKt" />
+        <item itemvalue="Kotlin._08_0_arrays_basicKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48414434-ee8d-4b5b-a054-02a2d6738c20" name="Changes" comment="" />
+      <created>1683828341298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683828341298</updated>
+      <workItem from="1683828342365" duration="4291000" />
+      <workItem from="1683884430186" duration="12807000" />
+      <workItem from="1683968100590" duration="12138000" />
+      <workItem from="1684061662988" duration="3911000" />
+      <workItem from="1684085166768" duration="4739000" />
+      <workItem from="1684144362080" duration="6190000" />
+      <workItem from="1684229862156" duration="2143000" />
+      <workItem from="1684313735874" duration="114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
