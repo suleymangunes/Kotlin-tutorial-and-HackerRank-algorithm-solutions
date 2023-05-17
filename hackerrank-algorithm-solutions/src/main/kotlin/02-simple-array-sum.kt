@@ -2,7 +2,7 @@ import kotlin.collections.*
 import kotlin.io.*
 import kotlin.text.*
 
-// sum array items 
+// sum array items
 // my solution is with recursive function
 fun sumArrayItemsRecursive(arr: Array<Int>, sizeArr:Int):Int{
 
