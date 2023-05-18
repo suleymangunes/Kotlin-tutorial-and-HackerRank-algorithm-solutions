@@ -5,7 +5,7 @@ import kotlin.text.*
 fun countApplesAndOranges(s: Int, t: Int, a: Int, b: Int, apples: Array<Int>, oranges: Array<Int>): Unit {
 
     // solution 1
-    var appleCount = 0s
+    var appleCount = 0
     var orangeCount = 0
 
     for (i in apples){
