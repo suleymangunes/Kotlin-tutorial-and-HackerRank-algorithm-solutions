@@ -71,3 +71,21 @@
     <li>Create, Write, Read</li>
   </ul>
 </ul>
+
+## HackerRank Algorithm Solutions
+
+<ul>
+  <li>Solve Me First</li>
+  <li>Simple Array Sum</li>
+  <li>Compare The Triples</li>
+  <li>A Very Big Sum</li>
+  <li>Diagonal Difference</li>
+  <li>Plus Minus</li>
+  <li>Staircase</li>
+  <li>Mini Max Sum</li>
+  <li>Birthday Cake Candles</li>
+  <li>Time Conversion</li>
+  <li>Grading Students</li>
+  <li>Apple And Orange</li>
+</ul>
+
